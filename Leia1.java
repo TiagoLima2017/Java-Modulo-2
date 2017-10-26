@@ -1,6 +1,6 @@
 package pacote1;
 import java.io.*;
-public class leia {
+public class leia1 {
 
 	public static void main(String[] args) throws IOException
 		{String C = "";

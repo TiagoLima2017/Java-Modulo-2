@@ -1,4 +1,4 @@
-package ola;
+package Pacote1;
 
 import java.util.Scanner;
 

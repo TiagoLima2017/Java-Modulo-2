@@ -1,8 +1,8 @@
-package psii;
+package Sexta;
 
 import java.util.Scanner;
 
-public class primeiros_positivos {
+public class Sextaa {
 
 	public static void main(String[] args) {
 		int n1=1, i, n2;
